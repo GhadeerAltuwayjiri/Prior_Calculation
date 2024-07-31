@@ -20,3 +20,16 @@ To use the `prior` function, open the `R/prior_calculation.R` file in your R env
 
 The R script `prior_calculation.R` defines a `prior` function that calculates the prior distribution parameters used in Bayesian mixture modeling.
 
+#### Python
+Ensure you have the following packages installed in Python:
+- `numpy`
+
+### How to Run
+
+To use the `prior` function, open the `Python/prior_calculation.py` file and execute it in your Python environment.
+
+### Code Explanation
+
+#### Python Code
+
+The Python script `prior_calculation.py` defines a `prior` function that calculates the prior distribution parameters used in Bayesian mixture modeling.
